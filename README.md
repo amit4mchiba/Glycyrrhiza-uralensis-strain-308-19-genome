@@ -1,2 +1,2 @@
 # Glycyrrhiza-uralensis-strain-308-19-genome
-The repository contains scripts, supplementary datasets, G. uralensis Pathway database, genome assembly datasets and scripts used to run the analysis
+The repository contains scripts, supplementary datasets, G. uralensis Pathway database, genome assembly datasets and scripts used to run the analysis. The Glurcyc_database.tar.gz is the pathway database generated using pathologic tool, and can be used to visualize the metabolic pathways in the Pathway tool software. We will work towards making the database available through PMN
